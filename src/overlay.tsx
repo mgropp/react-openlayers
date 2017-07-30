@@ -2,7 +2,7 @@ import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 import * as ol from 'openlayers';
 import {Util} from './util';
-import {Map} from './Map';
+import {Map} from './map';
 
 export class Overlay extends React.Component<any, any> {
 
